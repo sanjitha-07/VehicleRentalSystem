@@ -1,24 +1,42 @@
-## Getting Started
+# 🚗 Vehicle Rental System (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Description
 
-## Folder Structure
+A console-based Java application for renting vehicles like Cars, Bikes, and Scooters.  
+Built using core Java concepts with step-by-step enhancements.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### v1 - Basic
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Object-oriented design (Vehicle, Car, Bike, Scooter)
+  Menu System
+- User interaction via console
+- Vehicle selection and billing
 
-## Dependency Management
+### v2 -Packages
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Clean project structure using packages
 
-## Features Added (v2)
+Collections
 
-- Collections (ArrayList)
-- Exception Handling
-- File Handling (bookings saved to file)
+- Dynamic data using ArrayList
+
+Advanced Features
+
+- ⚠️ Exception Handling (invalid input handled)
+- 📂 File Handling (bookings saved to file)
+
+---
+
+Technologies Used
+
+- Java
+- OOP Concepts
+- Collections Framework
+- File Handling
+- Git & GitHub
+
+---
