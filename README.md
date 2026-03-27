@@ -30,6 +30,3 @@ Advanced Features
 
 ---
 
-## ▶️ How to Run
-
-1. Compile:
