@@ -1,3 +1,4 @@
+package model;
 public class Scooter extends Vehicle {
 
     public Scooter(int id, String brand, double pricePerDay) {

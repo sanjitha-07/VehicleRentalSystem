@@ -1,3 +1,4 @@
+package model;
 public class Vehicle {
     protected int id;
     protected String brand;
@@ -17,4 +18,18 @@ public class Vehicle {
         System.out.println("Price per day: " + pricePerDay);
         System.out.println("Available: " + isAvailable);
     }
+    public double getPricePerDay() {
+    return pricePerDay;
+}
+
+public boolean isAvailable() {
+    return isAvailable;
+}
+
+public void setAvailable(boolean available) {
+    this.isAvailable = available;
+}
+public String getBrand() {
+    return brand;
+}
 }
