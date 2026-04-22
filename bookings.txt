@@ -1,1 +1,3 @@
-Activa, 1 days, ₹500.0
+Hyundai, 2 days, Rs3600.0
+KTM, 3 days, Rs3600.0
+Hyundai, 3 days, Rs5400.0

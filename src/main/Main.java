@@ -81,7 +81,7 @@ try {
 
 double total = days * selectedCar.getPricePerDay();
 
-System.out.println("Total Cost: ₹" + total);
+System.out.println("Total Cost: Rs " + total);
 String data = selectedCar.getBrand() + ", " + days + " days, Rs" + total;
 
 fileHandler.saveBooking(data);
@@ -124,7 +124,7 @@ try {
 
 double total = days * selectedBike.getPricePerDay();
 
-System.out.println("Total Cost: ₹" + total);
+System.out.println("Total Cost: Rs " + total);
 String data = selectedBike.getBrand() + ", " + days + " days, Rs" + total;
 
 fileHandler.saveBooking(data);
@@ -166,7 +166,7 @@ try {
 
 double total = days * selectedScooter.getPricePerDay();
 
-System.out.println("Total Cost: ₹" + total);
+System.out.println("Total Cost: Rs " + total);
 String data = selectedScooter.getBrand() + ", " + days + " days, Rs" + total;
 
 fileHandler.saveBooking(data);
