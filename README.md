@@ -1,42 +1,33 @@
-# 🚗 Vehicle Rental System (Java)
+# 🚗 Vehicle Rental System (Console )
 
 ## 📌 Description
-
-A console-based Java application for renting vehicles like Cars, Bikes, and Scooters.  
-Built using core Java concepts with step-by-step enhancements.
-
----
-
-## 🚀 Features
-
-### v1 - Basic
-
-- Object-oriented design (Vehicle, Car, Bike, Scooter)
-  Menu System
-- User interaction via console
-- Vehicle selection and billing
-
-### v2 -Packages
-
-- Clean project structure using packages
-
-Collections
-
-- Dynamic data using ArrayList
-
-Advanced Features
-
-- ⚠️ Exception Handling (invalid input handled)
-- 📂 File Handling (bookings saved to file)
+This project is a console-based Vehicle Rental System developed using Java.  
+It includes both basic console operations and file handling concepts.
 
 ---
 
-Technologies Used
+## ✨ Features
+- Add vehicles
+- Rent vehicles
+- Return vehicles
+- Display vehicle details
+- File storage for saving data
 
+---
+
+## 🛠️ Technologies Used
 - Java
 - OOP Concepts
-- Collections Framework
 - File Handling
-- Git & GitHub
+
+---
+
+## ▶️ How to Run
+
+1. Compile:
+   javac Main.java
+
+2. Run:
+   java Main
 
 ---
